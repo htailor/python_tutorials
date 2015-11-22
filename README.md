@@ -1,2 +1,2 @@
 # Python Tutorials
-Place for learning new concepts and APIs in python through code
+Place for learning python concepts and API's through code.
